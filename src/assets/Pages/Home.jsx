@@ -7,7 +7,7 @@ const Home = () => {
   
   return (
     <div>
-      I am Home deplyed
+      I am Home d
       
     </div>
   )
