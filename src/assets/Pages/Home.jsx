@@ -7,7 +7,7 @@ const Home = () => {
   
   return (
     <div>
-      I am Home deployed
+      I am Home deployed :0
       
     </div>
   )
